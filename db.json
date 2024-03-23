@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Exercise",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Note Making",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Meditation",
+      "completed": false,
+      "status": false
+    },
+    {
+      "id": 5,
+      "title": "Organize",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "title": "Vedic Maths",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Gymnastic",
+      "completed": false,
+      "status": false
+    },
+    {
+      "id": 8,
+      "title": "Speed Reading",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "Assignment Completing",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "New Learnings",
+      "completed": true
+    },
+    {
+      "id": 11,
+      "title": "Discussion with Mentor",
+      "completed": false
+    },
+    {
+      "id": 12,
+      "title": "Debtor Management",
+      "completed": true
+    },
+    {
+      "id": 13,
+      "title": "Financial Management",
+      "completed": true
+    },
+    {
+      "title": "Running",
+      "completed": false,
+      "assignedTo": "John",
+      "completionDateTime": "2024-03-21T10:00",
+      "id": 15,
+      "status": false
+    }
+  ]
+}
